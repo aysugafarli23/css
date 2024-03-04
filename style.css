@@ -1,0 +1,55 @@
+*{
+   margin: 20px;
+   background-color: rgb(140, 130, 130);
+
+}
+
+body{
+    outline: thick ridge pink;
+   
+}
+
+.photo{
+    text-align: center;
+    
+    
+
+}
+
+img{
+    width: 500px;
+    border: 5px dashed rgba(34, 33, 33, 0.658);
+}
+
+.photo img, body{
+    box-shadow: 10px 10px 37px 10px rgba(184, 43, 62, 0.5);
+    -webkit-box-shadow: 10px 10px 37px 10px rgba(184, 43, 43, 0.5);
+    -moz-box-shadow: 10px 10px 37px 10px rgba(184, 43, 43, 0.5);
+}
+
+a{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    text-decoration: 5px underline rgb(124, 66, 66);
+    
+}
+
+h2{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    color: rgb(181, 29, 29);
+    text-shadow: 2px 2px 5px white;
+}
+
+div p span{
+    font-family: Blippo, fantasy;
+    color: white;
+    font-size: 20px;
+}
+
+#red_overline{
+    color: rgb(166, 67, 67);
+    text-decoration:line-through;
+    font-size: 15px;
+}
